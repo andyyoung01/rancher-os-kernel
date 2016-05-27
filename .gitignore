@@ -3,7 +3,6 @@
 /.buildroot-ccache
 /.kernel-ccache
 /config/.dockerfile
-/dist
 /.dl
 /Dockerfile
 *.swp
